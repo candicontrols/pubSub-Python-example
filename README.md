@@ -1,5 +1,12 @@
 # pubSub-Python-example
 
+### Description
+
+This sample python code allows you to:
+1. Receive pushed data from Google Pub/Sub. Example works from https://{yourDomain}/pubSubListener
+2. Pull data from Google Pub/Sub. Example can begin listening from https://{yourDomain}/pubSubWorker
+3. List all data that has been pushed or pulled from https://{yourDomain}/
+
 ### Google Pub/Sub Overview Documentation
 https://candicontrols.atlassian.net/wiki/spaces/DOCS/pages/54460420/Google+Pub+Sub+Overview
 
