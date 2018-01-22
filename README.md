@@ -8,7 +8,7 @@ This sample python code allows you to:
 3. List all data that has been pushed or pulled from https://{yourDomain}/
 
 ### Google Pub/Sub Overview Documentation
-https://candicontrols.atlassian.net/wiki/spaces/DOCS/pages/54460420/Google+Pub+Sub+Overview
+https://candicontrols.atlassian.net/wiki/spaces/PAR/pages/190873601/Google+Pub+Sub+Overview
 
 ### This Python 3.6.3 Pub/Sub example uses the following python libs:
 
